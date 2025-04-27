@@ -10,6 +10,8 @@ function GetGame()
         return "beaks.lua"
     elseif ID == 85896571713843 then
         return "bgsi.lua"
+    elseif ID == 13272778002 then
+        return "miniempires.lua"
     else
         print("Game is not supported.")
         return nil
